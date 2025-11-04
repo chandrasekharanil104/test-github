@@ -3,3 +3,4 @@ This is file 5 from branch 1
 these changes are made from branch2 and should appear in branch1 commits
 also this change 
 
+and this change
