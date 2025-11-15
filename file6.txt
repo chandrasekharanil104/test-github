@@ -1,0 +1,1 @@
+This is file 6 coming from BranchA. It should not be in Branch A commits.
